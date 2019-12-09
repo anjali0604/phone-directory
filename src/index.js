@@ -6,6 +6,9 @@ import AddSusbscriber from './AddSubscriber';
 import './common/common.css';
 import PhoneDirectory from './PhoneDirectory';
 
+
+//ReactDOM.render(<AddSubscriber />, document.getElementById('root'));
+
 ReactDOM.render(<PhoneDirectory />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
